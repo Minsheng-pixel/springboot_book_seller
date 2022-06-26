@@ -11,11 +11,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.time.LocalDateTime;
 import java.util.Optional;
 
-/**
- * @author sa
- * @date 3.07.2021
- * @time 18:03
- */
 @Service
 public class UserService implements IUserService
 {

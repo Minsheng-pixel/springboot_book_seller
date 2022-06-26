@@ -4,11 +4,6 @@ import com.sha.springbootbooksellermaven.model.User;
 
 import java.util.Optional;
 
-/**
- * @author sa
- * @date 3.07.2021
- * @time 18:03
- */
 public interface IUserService
 {
     User saveUser(User user);
